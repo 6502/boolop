@@ -31,5 +31,5 @@ agriffini@hparchy:~/x$ ./boolop '(A & (A => B)) => B'
 +---+---+---------------------+
 ```
 
-Implementations uses a recursive descent parser that compiles directly to bytcode for
+Implementation uses a recursive descent parser that compiles directly to bytcode for
 a stack-based virtual machine.
