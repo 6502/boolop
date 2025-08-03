@@ -8,11 +8,13 @@ Given a boolean expression of n variables as input, produces the truth table.
 Variables are uppercase letters, `t` and `f` are constants and here are the operators
 listed in order of precedence; binary ones are all left-associative.
 
-!   unary negation
-&   logical and
-|   logical or
-=>  implication
-<=> equivalence
+```
+!     unary negation
+&     logical and
+|     logical or
+=>    implication
+<=>   equivalence
+```
 
 Grouping using `(` and `)` is possible.
 
